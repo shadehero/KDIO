@@ -1,0 +1,4 @@
+C:\Users\ShadeHero\Documents\Projects\KDIO\KDIO\bin\Debug\KDIO.exe
+C:\Users\ShadeHero\Documents\Projects\KDIO\KDIO\bin\Debug\KDIO.pdb
+C:\Users\ShadeHero\Documents\Projects\KDIO\KDIO\obj\x86\Debug\KDIO.exe
+C:\Users\ShadeHero\Documents\Projects\KDIO\KDIO\obj\x86\Debug\KDIO.pdb
